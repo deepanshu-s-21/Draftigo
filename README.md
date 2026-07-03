@@ -14,10 +14,10 @@ Draftigo is an AI-powered email assistant that helps users generate professional
 ## Tech Stack
 
 ### Frontend
-- React.js
 - JavaScript
-- HTML5
-- CSS3
+- React.js
+- Vite
+- Material UI (MUI)
 
 ### Backend
 - Java
